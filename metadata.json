@@ -1,0 +1,6 @@
+{
+  "name": "مُولد السيرة الذاتية الذكي",
+  "description": "منصة احترافية لتوليد السيرة الذاتية بتنسيق ATS مع إمكانية التحميل بصيغة Word واستخراج البيانات بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
